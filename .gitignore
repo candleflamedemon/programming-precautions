@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.tmp
+*.temp
+*.bak
+*.orig
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+compile-environment/
+任务成果/
+tmp/
