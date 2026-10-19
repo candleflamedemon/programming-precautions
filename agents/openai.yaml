@@ -1,4 +1,4 @@
 interface:
   display_name: "编程注意事项"
-  short_description: "为本地编程维护单一、隔离且可回溯的项目编译运行环境"
-  default_prompt: "Use $programming-precautions to prepare and document the isolated local environment for this project."
+  short_description: "统一隔离环境、可配置变量区、中文注释、功能分块与可选结果报告"
+  default_prompt: "Use $programming-precautions to prepare this coding task, ask about a result report, and keep the local environment isolated."
